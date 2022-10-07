@@ -1,0 +1,4 @@
+#Fri Oct 07 08:46:45 BRT 2022
+base.0=/home/aluno/StudioProjects/prova/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
